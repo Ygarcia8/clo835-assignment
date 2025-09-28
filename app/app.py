@@ -14,7 +14,7 @@ def home():
     <html>
         <head><title>CLO835 Assignment</title></head>
         <body style='background-color:{COLOR};'>
-            <h1>Hello from CLO835 App!</h1>
+            <h1>Hello from CLO835-Yasmin App!</h1>
             <p>This application is running inside Docker with background color: <b>{COLOR}</b></p>
         </body>
     </html>
